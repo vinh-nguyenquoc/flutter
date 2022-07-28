@@ -72,7 +72,7 @@ class title extends StatelessWidget {
     return Container(
       padding: EdgeInsets.only(top: 15, left: 15, right: 15),
       child: Text(
-        'Bánh sinh nhật 7 màu rực rỡ',
+        'Bánh sinh nhật 7 màu rực rỡs',
         textDirection: TextDirection.ltr,
         style: TextStyle(
           fontSize: 16,
